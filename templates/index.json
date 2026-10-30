@@ -1,47 +1,99 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "hero": {
       "type": "hero",
-      "settings": {}
+      "settings": {
+        "heading_1": "Unemployed.",
+        "heading_2": "Finally free.",
+        "text": "Tees for people who left the 9 to 5 and got their time back. The sun, the sea and nowhere to be.",
+        "button_label": "Shop tees",
+        "button_link": "",
+        "image": "shopify://shop_images/975099756798770191_1.jpg"
+      }
     },
     "tees": {
       "type": "featured-collection",
-      "settings": {}
+      "settings": {
+        "heading": "The tees",
+        "collection": "",
+        "limit": 6
+      }
     },
     "board": {
       "type": "mood-board",
       "blocks": {
         "img1": {
           "type": "image",
-          "settings": {}
+          "settings": {
+            "image": "shopify://shop_images/Alain_Delon_2.jpg",
+            "shape": "auto",
+            "link": ""
+          }
         },
         "img2": {
           "type": "image",
-          "settings": {}
+          "settings": {
+            "image": "shopify://shop_images/1091489659696922336.jpg",
+            "shape": "auto",
+            "link": ""
+          }
         },
         "img3": {
           "type": "image",
-          "settings": {}
+          "settings": {
+            "image": "shopify://shop_images/628533691792342509.jpg",
+            "shape": "auto",
+            "link": ""
+          }
         },
         "img4": {
           "type": "image",
-          "settings": {}
+          "settings": {
+            "image": "shopify://shop_images/951948439983592189.jpg",
+            "shape": "auto",
+            "link": ""
+          }
         },
         "img5": {
           "type": "image",
-          "settings": {}
+          "settings": {
+            "image": "shopify://shop_images/4a628d19f07f96109f52c3d1e080792e.jpg",
+            "shape": "auto",
+            "link": ""
+          }
         },
         "img6": {
           "type": "image",
-          "settings": {}
+          "settings": {
+            "image": "shopify://shop_images/907545762423094657.jpg",
+            "shape": "auto",
+            "link": ""
+          }
         },
         "img7": {
           "type": "image",
-          "settings": {}
+          "settings": {
+            "image": "shopify://shop_images/550635491924435423.jpg",
+            "shape": "auto",
+            "link": ""
+          }
         },
         "img8": {
           "type": "image",
-          "settings": {}
+          "settings": {
+            "image": "shopify://shop_images/alain_delon_3.jpg",
+            "shape": "auto",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -54,11 +106,23 @@
         "img7",
         "img8"
       ],
-      "settings": {}
+      "settings": {
+        "show_motifs": true,
+        "motif_1": "The tree",
+        "motif_2": "The sun",
+        "motif_3": "The sea",
+        "heading": ""
+      }
     },
     "story": {
       "type": "story",
-      "settings": {}
+      "settings": {
+        "heading": "No alarm.\nNo boss.",
+        "heading_em": "No problem.",
+        "text": "Losing the job was the start, not the end. Mornings in the sun, afternoons in the water and time that belongs to you again.",
+        "button_label": "Our story",
+        "button_link": ""
+      }
     },
     "trust": {
       "type": "trust-row",
@@ -66,7 +130,10 @@
     },
     "signup": {
       "type": "newsletter",
-      "settings": {}
+      "settings": {
+        "heading": "Get the next tee",
+        "heading_em": "first"
+      }
     }
   },
   "order": [
