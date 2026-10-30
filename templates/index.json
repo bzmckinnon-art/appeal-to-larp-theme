@@ -125,6 +125,15 @@
         "button_link": ""
       }
     },
+    "featured_collection_4CzNBm": {
+      "type": "featured-collection",
+      "name": "Featured products",
+      "settings": {
+        "heading": "The tees",
+        "collection": "",
+        "limit": 6
+      }
+    },
     "trust": {
       "type": "trust-row",
       "settings": {}
@@ -142,6 +151,7 @@
     "tees",
     "board",
     "story",
+    "featured_collection_4CzNBm",
     "trust",
     "signup"
   ]
