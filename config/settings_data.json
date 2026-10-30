@@ -1,8 +1,45 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "current": {
     "free_shipping_threshold": 75,
     "returns_days": 30,
-    "shipping_note": "Ships in 2 to 4 business days"
+    "shipping_note": "Ships in 2 to 4 business days",
+    "sections": {
+      "announcement-bar": {
+        "type": "announcement-bar",
+        "settings": {
+          "show": true,
+          "text": "Free shipping on orders over $75",
+          "link": ""
+        }
+      },
+      "header": {
+        "type": "header",
+        "settings": {
+          "menu": "main-menu",
+          "logo_text_1": "AN APPAREL TO",
+          "logo_text_2": "LARP"
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "settings": {
+          "logo_text_1": "an appeal to",
+          "logo_text_2": "larp",
+          "tagline": "Tees for the free.",
+          "menu": "footer"
+        }
+      }
+    },
+    "content_for_index": []
   },
   "presets": {
     "Default": {
