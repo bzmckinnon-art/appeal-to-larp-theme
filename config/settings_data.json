@@ -9,7 +9,7 @@
  */
 {
   "current": {
-    "free_shipping_threshold": 42,
+    "free_shipping_threshold": 45,
     "returns_days": 30,
     "shipping_note": "Ships in 2 to 4 business days",
     "social_tiktok": "https://www.tiktok.com/@rizeezoj?is_from_webapp=1&sender_device=pc",
@@ -18,7 +18,7 @@
         "type": "announcement-bar",
         "settings": {
           "show": true,
-          "text": "Free shipping on orders over £42",
+          "text": "Free shipping on orders over £45",
           "link": ""
         }
       },
