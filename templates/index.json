@@ -23,7 +23,7 @@
     "tees": {
       "type": "featured-collection",
       "settings": {
-        "heading": "The tees",
+        "heading": "Catalog",
         "collection": "",
         "limit": 6
       }
@@ -129,7 +129,7 @@
       "type": "featured-collection",
       "name": "Featured products",
       "settings": {
-        "heading": "The tees",
+        "heading": "Catalog",
         "collection": "",
         "limit": 6
       }
