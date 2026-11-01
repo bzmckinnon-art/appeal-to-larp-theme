@@ -144,6 +144,14 @@
         "heading": "Get the next tee",
         "heading_em": "first"
       }
+    },
+    "newsletter_VpAeNA": {
+      "type": "newsletter",
+      "name": "Email signup",
+      "settings": {
+        "heading": "Get the next tee",
+        "heading_em": "first"
+      }
     }
   },
   "order": [
@@ -153,6 +161,7 @@
     "story",
     "featured_collection_4CzNBm",
     "trust",
-    "signup"
+    "signup",
+    "newsletter_VpAeNA"
   ]
 }
