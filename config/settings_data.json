@@ -18,7 +18,7 @@
         "type": "announcement-bar",
         "settings": {
           "show": true,
-          "text": "Free shipping on orders over £50",
+          "text": "Free shipping on orders over £42",
           "link": ""
         }
       },
